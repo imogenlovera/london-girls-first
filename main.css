@@ -34,6 +34,7 @@ body {
 .goal {
   text-align: center;
 }
+
 ul {
   font-family: 'Amatic SC', cursive;
   font-size: 24px;
@@ -62,11 +63,13 @@ img.img-responsive {
 img.img-responsive:hover {
     opacity: 0.5;
 }
+
 p.infoguide {
   font-size: 15px;
 }
+
 h2.guideheaders {
-  text-align: left;
+  text-align: center;
 }
 
 li {
@@ -84,6 +87,7 @@ li a {
 .navbar {
   background-color: black;
 }
+
 .fa {
     padding: 20px;
     font-size: 30px;
