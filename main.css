@@ -68,6 +68,10 @@ p.infoguide {
   font-size: 15px;
 }
 
+footer {
+  text-align: center;
+}
+
 h2.guideheaders {
   text-align: center;
 }
